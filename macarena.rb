@@ -29,4 +29,4 @@ puts "Step 7: Bring your right hand up and around to the back of your head."
 # Step 8: FIXME
 puts "Step 8: Bring your left hand up and around to the back your head"
 end
-"How To Do The Macarena"
+puts "How To Do The Macarena"
